@@ -13,7 +13,7 @@ Creating a great project comes hand in hand with creating a great quality readme
 To install necessary dependencies, run the following command:
 npm install
 ## Usage
-<img src="./ReadmeGenerator/demo.mov" alt="demo">
+<img src="./ReadmeGenerator/demo.mov" alt="demo"/>
 
 ## License
 This project is licensed under the MIT license.
