@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const axios = require('axios');
-var repo = read;
+var repo = "readme";
 
 inquirer.prompt([{
   type: "input",
